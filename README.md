@@ -8,15 +8,15 @@
 
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about anything related data analysis and data visualization
-- 📫 How to reach me: gemre@sabanciuniv.edu
-- 🌍 I'm based in Turkey, looking for new opportunities around the world
+- 📫 How to reach me: gencemre99@gmail.com
+- 🌍 I'm based in Türkiye, looking for new opportunities around the world
 
 <br></br>
 
 <h2 align="center">
 Who am I 👀 
 </h2>
-Senior Industrial Engineering student at Sabanci University. Loves data science especially using Python.
+MSc Data Science and Business Analytics student at University of Amsterdam (UvA). Loves data science especially using Python.
 </p>
 <center>
 <br>
